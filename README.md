@@ -1,16 +1,17 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
-<!--
-**T-A-Y-Y-A-B-A/T-A-Y-Y-A-B-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+    <h1 align="center">✩&emsp;Tayyaba Imtiaz Beezy &emsp;✩</h1>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀💻+Full-Stack+Web+Developer" />
+</p>
+<div align="center">
+  <img src="https://github.com/thecallmebilalashiq/thecallmebilalashiq/blob/main/assets/header.gif" alt="Animated Header" />
+</div   
+
+
+<hr>
